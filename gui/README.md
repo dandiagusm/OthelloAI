@@ -1,5 +1,5 @@
 #Othello
-Othello/Reversi game GUI created with Python and Tkinter module.
+Othello game GUI created with Python and Tkinter module.
 
 Supports various game settings and preferences, including:
 - Game resizability
